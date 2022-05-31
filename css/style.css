@@ -1,9 +1,14 @@
 /*header*/
-.logo {float: left;margin-right: 160px; margin-left: 140px; margin-top: 32px;
-color: #FF7A00;}
+.logo {float: left;margin-right: 160px; margin-left: 140px; margin-top: 16px;
+color: #FF7A00; font-size: 36px;}
 .navigation{float: left; padding-top: 48px;}
 .clear{clear: both;}
-.nav-li{display: inline-block; padding-left: 16px; color: red;}
-.header-wraper{background-color:red; margin-bottom: 40px;}
+.nav-li{display: inline-block; padding-left: 24px; 
+	font-size: 16px; color: black;}
+.header-wraper{margin-bottom: 40px;}
 /*section1*/
 .image1 {width: 100%; height: 382px;}
+.box-box{position: relative;}
+.child-box{position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);}
+.text12 {font-size: 64px; color: #181C28; margin-left: 45px;}
+.text11 {font-size: 32px; color: #181C28;}
