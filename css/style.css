@@ -1,0 +1,9 @@
+/*header*/
+.logo {float: left;margin-right: 160px; margin-left: 140px; margin-top: 32px;
+color: #FF7A00;}
+.navigation{float: left; padding-top: 48px;}
+.clear{clear: both;}
+.nav-li{display: inline-block; padding-left: 16px; color: red;}
+.header-wraper{background-color:red; margin-bottom: 40px;}
+/*section1*/
+.image1 {width: 100%; height: 382px;}
